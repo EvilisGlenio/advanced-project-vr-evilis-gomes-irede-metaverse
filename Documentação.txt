@@ -1,0 +1,21 @@
+Projeto: CampVerse – Acampamento Virtual com Pescaria
+Autor: Evilis Glenio Teixeira Gomes
+Trilha: 1
+
+Objetivo:
+Criei este projeto com o objetivo de desenvolver um ambiente imersivo de acampamento voltado para relaxamento e lazer no metaverso, permitindo que o usuário explore um espaço natural tranquilo e interaja com elementos do cenário, como a fogueira e a área de pesca.
+
+Descrição do Ambiente:
+O ambiente consiste em um acampamento virtual de aproximadamente 40x30 metros, contendo árvores, pedras, arbustos, um lago central, e uma fogueira. Ao redor do lago há e uma área destinada à pescaria. A iluminação simula o final da tarde, com céu parcialmente nublado e clima aconchegante.
+
+Aprendizado:
+Com este projeto, compreendi como ambientes virtuais podem ser utilizados para proporcionar experiências imersivas de lazer e bem-estar. Também aprendi a configurar cenários em realidade virtual utilizando Unity e Meta XR SDK, além de implementar interações simples com C#.
+
+Dificuldades:
+A criação e modelagem do terreno foi uma das partes mais desafiadoras, exigindo pesquisas e tutoriais no YouTube para obter um resultado satisfatório. Também enfrentei dificuldades com o XR Device Simulator durante os testes no Unity Editor, que apresentou alguns comportamentos inesperados. E um grande error nos scripts que me fizeram ter que refaze-los.
+
+Melhorias Futuras:
+Pretendo adicionar sons ambientes da natureza, como água e pássaros, inserir montanhas ao fundo para aumentar a imersão e implementar novas interações, peixes saltando no lago.
+
+Link do repositório no GitHub:
+https://github.com/EvilisGlenio/advanced-project-vr-evilis-gomes-irede-metaverse
