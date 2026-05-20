@@ -58,6 +58,7 @@ TestResults/
 # Local project leftovers / Unity tutorial artifacts
 .vsconfig
 Assets/_Recovery/
+Assets/_Recovery.meta
 Assets/save.unity
 Assets/save.unity.meta
 Assets/Readme.asset
